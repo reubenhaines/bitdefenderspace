@@ -6,7 +6,7 @@ Bitdefender is a world-renowned cybersecurity solution offering protection for b
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://bitdefenderdesk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Bitdefender</a>
+       <a href="https://mybitdefender.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Bitdefender</a>
    </div>
 
 In this guide, you’ll also learn how to access the **Bitdefender GravityZone login** page—Bitdefender’s centralized business management console. From password recovery and 2FA, to common troubleshooting fixes, this article provides everything you need to securely log in and manage your Bitdefender services.
@@ -200,3 +200,4 @@ To recap:
 
 
 Take control of your cybersecurity today by mastering your Bitdefender login process.
+
